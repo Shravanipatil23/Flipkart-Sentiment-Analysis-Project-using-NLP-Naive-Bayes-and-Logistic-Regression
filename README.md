@@ -1,4 +1,4 @@
-# Sentiment Analysis Project using NLP, Naive Bayes and Logistic Regression
+# Flipkart Sentiment Analysis Project using NLP, Naive Bayes and Logistic Regression
 ## Table of Contents
 1. Project Overview
 2. Technologies and Libraries Used
